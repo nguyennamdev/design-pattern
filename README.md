@@ -1,1 +1,1 @@
-# design-pattern
+# learning design pattern using Java programing 
